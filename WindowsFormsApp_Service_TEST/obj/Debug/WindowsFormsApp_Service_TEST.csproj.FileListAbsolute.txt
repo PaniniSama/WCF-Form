@@ -1,0 +1,10 @@
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\bin\Debug\WindowsFormsApp_Service_TEST.exe.config
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\bin\Debug\WindowsFormsApp_Service_TEST.exe
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\bin\Debug\WindowsFormsApp_Service_TEST.pdb
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.csprojAssemblyReference.cache
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.Form1.resources
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.Properties.Resources.resources
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.csproj.GenerateResource.cache
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.exe
+C:\Users\Saad\source\repos\WindowsFormsApp_Service_TEST\WindowsFormsApp_Service_TEST\obj\Debug\WindowsFormsApp_Service_TEST.pdb
